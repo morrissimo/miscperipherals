@@ -7,3 +7,6 @@ For MC 1.6.2 with the ComputerCraft **1.5** API.
 I had to redact some source, although the mod remains fully functional. Comments were added as well.
 
 The (not sure if still private) Mystcraft API has been removed to avoid licensing issues.
+
+RichardG's tweet releasing the source:
+https://twitter.com/richardg867/status/450788021689147392
